@@ -20,5 +20,5 @@ class WindowNDS : public WindowSE {
 
   private:
     int width = 256;
-    int height = 192;
+    int height = 384;
 };
